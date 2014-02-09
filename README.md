@@ -82,3 +82,6 @@ All rights reserved by human.
 [options]:https://raw.github.com/yarcowang/chrome-tabsize/master/chrome-tabsize/options.png "options"
 [tabsize8]:https://raw.github.com/yarcowang/chrome-tabsize/master/chrome-tabsize/tabsize8.png "set tabsize=8"
 [click2view]:https://raw.github.com/yarcowang/chrome-tabsize/master/chrome-tabsize/click2view.png "click to change"
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/meteormatt/chrome-tabsize/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
